@@ -179,6 +179,8 @@ print(x_single_prediction)
 print(le.inverse_transform(x_single_prediction))
 
 ```
+## Dataset Information
+![](1.PNG)
 
 ## OUTPUT
 
